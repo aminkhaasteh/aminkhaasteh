@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amin</h1>
 <h3 align="center">A Full Stack Developer From Iran, who love to code!</h3>
 
-- 🔭 I’m currently working on [enterprise resource planning application that's called GHAPH](http://ghaph.ir)
+- 🔭 I’m currently working on enterprise resource planning application that's called [GHAPH](http://ghaph.ir)
 
 - 🌱 I’m currently learning **Reactjs**
 
