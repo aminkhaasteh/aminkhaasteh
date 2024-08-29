@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on enterprise resource planning application that's called [GHAPH](http://ghaph.ir)
 
-- 🌱 I’m currently learning **Reactjs**
-
 - ⚡ Fun fact **I love to make delicious food on my free time & travel to new places.**
 
 <h3 align="left">Connect with me:</h3>
